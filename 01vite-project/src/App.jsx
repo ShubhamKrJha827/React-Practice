@@ -16,11 +16,13 @@ import Chai from "./chai"
 // export default App
 
 function App() {
+  
+  const username = "er jha"
 
      return (
      <dv>
          <Chai/>
-         <h1>shubham jha</h1>
+         <h1>shubham jha {username}</h1>
          <p>she is a good boy</p>
          </dv>
       
